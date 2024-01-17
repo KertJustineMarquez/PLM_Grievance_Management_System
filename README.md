@@ -1,3 +1,7 @@
+PLM GRIEVANCE MANAGEMENT SYSTEM
+
+- A Management system dedicated for centralized grievance hub for Pamantansan ng Lungsod ng Maynila
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
